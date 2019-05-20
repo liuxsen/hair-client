@@ -1,0 +1,3 @@
+[submodule "submodule/atom"]
+	path = submodule/atom
+	url = https://github.com/liuxsen/atom.git
